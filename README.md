@@ -8,4 +8,4 @@ All things related to the curl up conference series
 | 2019  | [Prague, Czech Republic](https://github.com/curl/curl-up/wiki/2019)  |          |
 
 
-To recieve announcements on meetings please subscribe to [curl-meet](https://cool.haxx.se/mailman/listinfo/curl-meet).
+To receive announcements on meetings please subscribe to [curl-meet](https://cool.haxx.se/mailman/listinfo/curl-meet).
