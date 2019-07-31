@@ -1,10 +1,8 @@
+![curl up logo](https://curl.haxx.se/logo/curl-up.svg)
+
 # curl-up
 All things related to the curl up conference series
 
-| year  | info  | archive  |
-|-------|-------|----------|
-| 2017  | [Nuremberg, Germany](https://github.com/curl/curl-up/wiki/2017)      | [presentations](https://curl.haxx.se/video/curlup-2017/)    |
-| 2018  | [Stockholm, Sweden ](https://github.com/curl/curl-up/wiki/2018)      | [presentations](https://curl.haxx.se/video/curlup-2018/)         |
-| 2019  | [Prague, Czech Republic](https://github.com/curl/curl-up/wiki/2019)  | [presentations](https://curl.haxx.se/video/curlup-2019/)         |
+[Start here](https://github.com/curl/curl-up/wiki)
 
-To receive announcements on meetings please subscribe to [curl-meet](https://cool.haxx.se/mailman/listinfo/curl-meet).
+To receive announcements on meetings and help plan and discuss them please subscribe to [curl-meet](https://cool.haxx.se/mailman/listinfo/curl-meet).
